@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+*:last-child {
+  margin-bottom: 0;
+}
+html {
+  font-family: "Arial MT";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #ffffff;
+  color: #5c646e;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 976px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+.main-content {
+  background-color: #ffffff;
+  padding: 46px 29px 58px;
+}
+a {
+  color: #3c3c3c;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+figure {
+  margin: 0;
+}
+
+p,
+ul,
+ol {
+  margin: 0 0 16px 0;
+}
+
+* + p,
+* + ul,
+* + ol {
+  margin-top: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 0.67em 0;
+}
+
+* + h1,
+* + h2,
+* + h3,
+* + h4,
+* + h5,
+* + h6 {
+  margin-top: 0.67em;
+}
+h1 {
+  margin-bottom: 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+h4 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 14px;
+}
+h5 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 24px;
+}
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 14px;
+}
+
+.logo > img {
+  width: 126px;
+}
+
+.letter-primary {
+  display: inline-block;
+}
+.letter-primary::first-letter {
+  color: #ff1744;
+}
+hr {
+  border-color: #191c20;
+}

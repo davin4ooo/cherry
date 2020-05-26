@@ -1,0 +1,13 @@
+.header-top {
+  background-color: black;
+  padding-top: 20px;
+}
+.header-bottom {
+  background-color: #ff1744;
+  padding: 12px 30px;
+}
+.text-logo {
+  margin: 0;
+  padding-bottom: 15px;
+  color: #c9c7c7;
+}

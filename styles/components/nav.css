@@ -1,0 +1,13 @@
+.nav {
+}
+.nav-item {
+  display: inline-block;
+  padding-right: 55px;
+  color: #ffffff;
+}
+.nav-item:hover {
+  color: goldenrod;
+}
+.nav-item.is-active {
+  color: goldenrod;
+}

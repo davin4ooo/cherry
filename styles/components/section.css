@@ -1,0 +1,21 @@
+.section {
+}
+
+.section-title {
+  color: #a5adb8;
+  text-transform: capitalize;
+}
+
+.section-description {
+}
+.aside-description {
+  color: #5c646e;
+  font-size: 12px;
+  line-height: 20px;
+  padding-bottom: 36px;
+}
+.more-about {
+  color: #ff1744;
+  line-height: 20px;
+  text-decoration: underline;
+}

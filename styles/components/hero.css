@@ -1,0 +1,19 @@
+.hero {
+  background-color: black;
+  padding: 42px 28px;
+  color: white;
+}
+
+.hero-subtitle {
+  margin: 0;
+}
+
+.title-discription {
+  color: #c9c7c7;
+  font-size: 18px;
+  margin-top: 0px;
+}
+.hero-discription {
+  max-width: 484px;
+  color: #c9c7c7;
+}

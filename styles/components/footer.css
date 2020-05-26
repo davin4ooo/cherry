@@ -1,0 +1,17 @@
+.footer {
+  background-color: #262d34;
+  border-top: 12px solid #ff1744;
+}
+.footer-title {
+  padding-top: 40px;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+  color: #a5adb8;
+  text-transform: capitalize;
+}
+.cherry {
+  text-transform: uppercase;
+}
+.call-free {
+  color: #a5adb8;
+  font-size: 14px;
+}
